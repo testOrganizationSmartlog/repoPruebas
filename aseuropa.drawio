@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-15T08:59:14.385Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="SbWFFc9KfBXgprfq4uKP" version="22.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-15T09:02:52.489Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="HYSEhSr561ACUmFWjzv1" version="22.1.9" type="github">
   <diagram name="Página-1" id="PQF2N1dxmj4FgFT-7-pj">
-    <mxGraphModel dx="2049" dy="3441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="2981" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -138,27 +138,8 @@
         <mxCell id="7oDzX8excqVwqOyNnf67-48" value="¿Tiene discount?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="30" y="220" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="7oDzX8excqVwqOyNnf67-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="7oDzX8excqVwqOyNnf67-53" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="853.09" y="920" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7oDzX8excqVwqOyNnf67-55" value="Sí" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7oDzX8excqVwqOyNnf67-54" vertex="1" connectable="0">
-          <mxGeometry x="-0.1294" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7oDzX8excqVwqOyNnf67-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="833.09" y="1100" as="targetPoint" />
-            <mxPoint x="788.09" y="985" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7oDzX8excqVwqOyNnf67-51" value="&lt;h1 style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 12px;&quot;&gt;[CondiciónMarcas]&lt;/font&gt;&lt;/h1&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="630" y="840" width="130" height="130" as="geometry" />
-        </mxCell>
         <mxCell id="7oDzX8excqVwqOyNnf67-53" value="(product.pvp de tarifa de 0 a 5) + contributionPrice&amp;nbsp; + promoPrice&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="943.09" y="890" width="245" height="60" as="geometry" />
+          <mxGeometry x="205" y="797.5" width="245" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yF8zC-Vedh16o82l2wIE-1" value="&lt;h1 style=&quot;line-height: 50%; font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;div style=&quot;line-height: 50%; font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&amp;lt;tierPriceEntry&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;h1 style=&quot;line-height: 50%; font-size: 13px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp; &amp;lt;codMyrtus&amp;gt;31073&amp;lt;/codMyrtus&amp;gt;&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;line-height: 50%; font-size: 13px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp; &amp;lt;!-- Nivel de Unidades a partir del cual se aplica el precio --&amp;gt;&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;line-height: 50%; font-size: 13px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp; &amp;lt;tierUnits&amp;gt;10&amp;lt;/tierUnits&amp;gt;&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;line-height: 50%; font-size: 13px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp; &amp;lt;!-- Precio Base. Las ofertas y los descuentos que se tengan que aplicar se aplican sobre este precio Base --&amp;gt;&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;line-height: 50%; font-size: 13px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp; &amp;lt;price&amp;gt;1500.15&amp;lt;/price&amp;gt;&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;line-height: 50%; font-size: 13px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp; &amp;lt;!-- Tipo de usuario --&amp;gt;&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;line-height: 50%; font-size: 13px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp; &amp;lt;!-- El precio se aplica a los clientes que tengan el mismo valor en el campo &quot;filtro de clientes&quot; en la tabla usuarios --&amp;gt;&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;line-height: 50%; font-size: 13px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp; &amp;lt;!-- si userType=0 el precio del tramo se aplica a todos los clientes --&amp;gt;&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;line-height: 50%; font-size: 13px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp; &amp;lt;userType&amp;gt;9&amp;lt;/userType&amp;gt;&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;line-height: 50%; font-size: 13px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp; &amp;lt;!-- Descuento --&amp;gt;&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;line-height: 50%; font-size: 13px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp; &amp;lt;discount&amp;gt;0&amp;lt;/discount&amp;gt;&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;line-height: 50%; font-size: 13px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&amp;lt;/tierPriceEntry&amp;gt;&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;div style=&quot;line-height: 50%; font-size: 13px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="44" y="-690" width="700" height="210" as="geometry" />
@@ -188,6 +169,10 @@
         <mxCell id="yF8zC-Vedh16o82l2wIE-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yF8zC-Vedh16o82l2wIE-13" target="yF8zC-Vedh16o82l2wIE-17">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="658.8" y="335" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="650" y="388" />
+              <mxPoint x="650" y="328" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="yF8zC-Vedh16o82l2wIE-26" value="Sí&lt;br&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yF8zC-Vedh16o82l2wIE-16">
@@ -196,7 +181,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yF8zC-Vedh16o82l2wIE-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yF8zC-Vedh16o82l2wIE-13" target="yF8zC-Vedh16o82l2wIE-27">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="388" />
+              <mxPoint x="650" y="453" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="yF8zC-Vedh16o82l2wIE-29" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yF8zC-Vedh16o82l2wIE-28">
           <mxGeometry x="0.016" y="3" relative="1" as="geometry">
@@ -337,6 +327,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="yF8zC-Vedh16o82l2wIE-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yF8zC-Vedh16o82l2wIE-64" target="yF8zC-Vedh16o82l2wIE-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yF8zC-Vedh16o82l2wIE-91" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yF8zC-Vedh16o82l2wIE-90">
+          <mxGeometry x="0.1417" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="yF8zC-Vedh16o82l2wIE-64" value="¿Tiene tierPriceEntry?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="30" y="580" width="130" height="130" as="geometry" />
         </mxCell>
@@ -399,6 +397,28 @@
         </mxCell>
         <mxCell id="yF8zC-Vedh16o82l2wIE-84" value="&lt;font color=&quot;#cc99ff&quot;&gt;tierPriceEntry&lt;/font&gt;.price - product.contributionPrice -&lt;br&gt;&amp;nbsp;product.promoPrice" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="645.36" y="680" width="274.64" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yF8zC-Vedh16o82l2wIE-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yF8zC-Vedh16o82l2wIE-89" target="7oDzX8excqVwqOyNnf67-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yF8zC-Vedh16o82l2wIE-93" value="Sí" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yF8zC-Vedh16o82l2wIE-92">
+          <mxGeometry x="-0.3548" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yF8zC-Vedh16o82l2wIE-89" value="&lt;h1 style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;[CondiciónMarcas]&lt;/font&gt;&lt;/h1&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="40.34999999999992" y="790" width="109.29" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="yF8zC-Vedh16o82l2wIE-94" value="(product.pvp de tarifa de 0 a 5)" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="20" y="940" width="245" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yF8zC-Vedh16o82l2wIE-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.303;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yF8zC-Vedh16o82l2wIE-89" target="yF8zC-Vedh16o82l2wIE-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yF8zC-Vedh16o82l2wIE-97" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yF8zC-Vedh16o82l2wIE-96">
+          <mxGeometry x="-0.2498" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
