@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-18T09:18:10.588Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="3DhqM6Z0qjSzggRiufiw" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-18T09:36:50.007Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="-L0_WnzofpaEWmzclkiw" version="22.1.11" type="github">
   <diagram name="Página-1" id="PQF2N1dxmj4FgFT-7-pj">
     <mxGraphModel dx="1434" dy="3076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -497,7 +497,7 @@
             <mxPoint x="-7" y="-22" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AInUMjwD0sa7yeV-oxsL-1" value="[PRECIO] &lt;br&gt;+ (account.isoCountry == &#39;ES&#39;?product.digitalCanon : 0) &lt;br&gt;+ (account.withoutVAT? 0 :21% IVA)&amp;nbsp;&lt;br&gt;&lt;b&gt;¿¿+ account.sufre recargo equivalencia?product.reverseChargeProcedure:0??&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="AInUMjwD0sa7yeV-oxsL-1" value="[PRECIO] &lt;br&gt;+ (account.isoCountry == &#39;ES&#39;?product.digitalCanon : 0) &lt;br&gt;+ (account.withoutVAT? 0 :21% IVA)&amp;nbsp;&lt;br&gt;&lt;b&gt;¿¿+ account.sufre recargo equivalencia?product.reverseChargeProcedure:0??&lt;br&gt;&lt;br&gt;mas condiciones?&lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="304.29" y="1040" width="625.71" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AInUMjwD0sa7yeV-oxsL-2" value="PVP/PVD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
