@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-18T12:40:52.598Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="8nvhlU-5j2_GEFY-FNNp" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-18T12:44:54.915Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ZD3JNmhW-LfUzvZHYhYl" version="22.1.11" type="github">
   <diagram name="Página-1" id="PQF2N1dxmj4FgFT-7-pj">
-    <mxGraphModel dx="1195" dy="2953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="869" dy="2785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,6 +65,9 @@
         </mxCell>
         <mxCell id="7oDzX8excqVwqOyNnf67-48" value="¿Tiene discount?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="30" y="220" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="AInUMjwD0sa7yeV-oxsL-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7oDzX8excqVwqOyNnf67-53" target="AInUMjwD0sa7yeV-oxsL-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7oDzX8excqVwqOyNnf67-53" value="(product.pvp de tarifa de 0 a 5) + contributionPrice&amp;nbsp; + promoPrice&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="205" y="797.5" width="245" height="60" as="geometry" />
@@ -349,7 +352,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yF8zC-Vedh16o82l2wIE-94" value="&amp;nbsp;(product.pvp de tarifa de 0 a 5)" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="20" y="940" width="245" height="60" as="geometry" />
+          <mxGeometry x="20" y="1000" width="245" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yF8zC-Vedh16o82l2wIE-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.303;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="yF8zC-Vedh16o82l2wIE-89" target="yF8zC-Vedh16o82l2wIE-94" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -551,20 +554,40 @@
         <mxCell id="AInUMjwD0sa7yeV-oxsL-9" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;&lt;br&gt;el profitMargin&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;siempre se calcula con el precio de la tarifa 0&lt;/span&gt;&lt;br&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="848.9300000000001" y="530" width="280" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AInUMjwD0sa7yeV-oxsL-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AInUMjwD0sa7yeV-oxsL-15" target="AInUMjwD0sa7yeV-oxsL-17">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="AInUMjwD0sa7yeV-oxsL-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="AInUMjwD0sa7yeV-oxsL-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="494.99959595959587" y="1030.0303030303035" as="sourcePoint" />
+            <mxPoint x="550" y="1070" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="1031" />
+              <mxPoint x="540" y="1080" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AInUMjwD0sa7yeV-oxsL-51" value="Sí" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AInUMjwD0sa7yeV-oxsL-18">
+          <mxGeometry x="-0.7111" y="2" relative="1" as="geometry">
+            <mxPoint x="38" y="2" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="AInUMjwD0sa7yeV-oxsL-15" value="precio &amp;lt;&lt;br&gt;&amp;nbsp;(product.oldPvp de tarifa de 0 a 5)" style="rhombus;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="320" y="910" width="160" height="120" as="geometry" />
+          <mxGeometry x="320" y="970" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="AInUMjwD0sa7yeV-oxsL-17" value="Precio Original:&lt;br&gt;&amp;nbsp;(product.oldPvp de tarifa de 0 a 5)" style="whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="555" y="940" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AInUMjwD0sa7yeV-oxsL-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AInUMjwD0sa7yeV-oxsL-20" target="AInUMjwD0sa7yeV-oxsL-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AInUMjwD0sa7yeV-oxsL-50" value="Sí" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AInUMjwD0sa7yeV-oxsL-49">
+          <mxGeometry x="-0.2619" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="AInUMjwD0sa7yeV-oxsL-20" value="precio &amp;lt;&lt;br&gt;&amp;nbsp;(product.oldPvp de tarifa de 0 a 5)" style="rhombus;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="495" y="780" width="160" height="120" as="geometry" />
+          <mxGeometry x="510" y="767.5" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="AInUMjwD0sa7yeV-oxsL-21" value="Precio Original:&lt;br&gt;&amp;nbsp;(product.oldPvp de tarifa de 0 a 5)&amp;nbsp;+ contributionPrice&amp;nbsp; + promoPrice&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="730" y="800" width="160" height="120" as="geometry" />
+        <mxCell id="AInUMjwD0sa7yeV-oxsL-21" value="Precio Original Tachado:&lt;br&gt;&amp;nbsp;(product.oldPvp de tarifa de 0 a 5)&amp;nbsp;+ contributionPrice&amp;nbsp; + promoPrice&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="740" y="767.5" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="AInUMjwD0sa7yeV-oxsL-22" value="&lt;b&gt;Precio con descuento&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="265" y="-350" width="120" height="60" as="geometry" />
@@ -617,8 +640,33 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AInUMjwD0sa7yeV-oxsL-47" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;Precio original&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="AInUMjwD0sa7yeV-oxsL-47" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;Precio original TACHADO&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="2610" y="100" width="197.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AInUMjwD0sa7yeV-oxsL-52" value="No existe rebaja, no hay precio original tachado" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="479.16" y="921" width="274.64" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="AInUMjwD0sa7yeV-oxsL-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.034;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AInUMjwD0sa7yeV-oxsL-15" target="AInUMjwD0sa7yeV-oxsL-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="1030" />
+              <mxPoint x="490" y="973" />
+              <mxPoint x="489" y="973" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AInUMjwD0sa7yeV-oxsL-54" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AInUMjwD0sa7yeV-oxsL-53">
+          <mxGeometry x="0.4963" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AInUMjwD0sa7yeV-oxsL-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.404;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AInUMjwD0sa7yeV-oxsL-20" target="AInUMjwD0sa7yeV-oxsL-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AInUMjwD0sa7yeV-oxsL-57" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AInUMjwD0sa7yeV-oxsL-56">
+          <mxGeometry x="-0.2783" y="1" relative="1" as="geometry">
+            <mxPoint y="2" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
