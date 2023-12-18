@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-18T12:40:20.039Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="LirLC1a5Nuitovhi4j4j" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-18T12:40:52.598Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="8nvhlU-5j2_GEFY-FNNp" version="22.1.11" type="github">
   <diagram name="Página-1" id="PQF2N1dxmj4FgFT-7-pj">
     <mxGraphModel dx="1195" dy="2953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -589,10 +589,11 @@
         <mxCell id="AInUMjwD0sa7yeV-oxsL-38" value="&amp;nbsp;(product.pvp de tarifa de 0 a 5)" style="whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="2710" y="265" width="245" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AInUMjwD0sa7yeV-oxsL-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AInUMjwD0sa7yeV-oxsL-36" target="AInUMjwD0sa7yeV-oxsL-38">
+        <mxCell id="AInUMjwD0sa7yeV-oxsL-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.95;exitY=0.527;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="AInUMjwD0sa7yeV-oxsL-36" target="AInUMjwD0sa7yeV-oxsL-38">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2495" y="270" />
+              <mxPoint x="2550" y="230" />
+              <mxPoint x="2550" y="270" />
               <mxPoint x="2644" y="270" />
               <mxPoint x="2644" y="295" />
             </Array>
