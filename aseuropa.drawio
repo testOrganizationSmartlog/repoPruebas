@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-18T15:42:12.123Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="SuJJ2ymnAR2nRs-FA_NM" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-18T15:43:27.191Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="rjP5n0XDSutg-vasgYup" version="22.1.11" type="github">
   <diagram name="Página-1" id="PQF2N1dxmj4FgFT-7-pj">
     <mxGraphModel dx="1687" dy="3206" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -716,6 +716,14 @@
         <mxCell id="AInUMjwD0sa7yeV-oxsL-75" value="&lt;b&gt;Precio con descuento&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="664" y="1575" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="AInUMjwD0sa7yeV-oxsL-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AInUMjwD0sa7yeV-oxsL-62" target="AInUMjwD0sa7yeV-oxsL-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AInUMjwD0sa7yeV-oxsL-115" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AInUMjwD0sa7yeV-oxsL-114">
+          <mxGeometry x="-0.0333" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="AInUMjwD0sa7yeV-oxsL-62" value="¿Tiene margen de beneficio?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1890" y="1340" width="160.77" height="110" as="geometry" />
         </mxCell>
@@ -791,7 +799,7 @@
           <mxGeometry x="1666.705" y="1330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AInUMjwD0sa7yeV-oxsL-97" value="0%" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1666.705" y="1400" width="120" height="60" as="geometry" />
+          <mxGeometry x="1666.705" y="1410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AInUMjwD0sa7yeV-oxsL-98" value="&lt;b&gt;+&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1806.71" y="1380" width="60" height="30" as="geometry" />
@@ -831,6 +839,9 @@
         </mxCell>
         <mxCell id="AInUMjwD0sa7yeV-oxsL-112" value="Tendremos una configuración con 21% de iva y 5.2% de recargo de equivalencia.&lt;br&gt;Si el día de mañana cambia, solo se tiene que modificar allí." style="whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
           <mxGeometry x="1466.71" y="1169" width="353.29" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="AInUMjwD0sa7yeV-oxsL-113" value="0%" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2039.995" y="1450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
