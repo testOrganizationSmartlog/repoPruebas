@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-18T15:15:26.917Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="YAUfJT5Wx2-x91wmcjBb" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-18T15:42:12.123Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="SuJJ2ymnAR2nRs-FA_NM" version="22.1.11" type="github">
   <diagram name="Página-1" id="PQF2N1dxmj4FgFT-7-pj">
     <mxGraphModel dx="1687" dy="3206" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -717,7 +717,7 @@
           <mxGeometry x="664" y="1575" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AInUMjwD0sa7yeV-oxsL-62" value="¿Tiene margen de beneficio?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1826.71" y="1340" width="160.77" height="110" as="geometry" />
+          <mxGeometry x="1890" y="1340" width="160.77" height="110" as="geometry" />
         </mxCell>
         <mxCell id="AInUMjwD0sa7yeV-oxsL-76" value="&lt;b&gt;Precio con descuento&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="620" y="1375" width="120" height="60" as="geometry" />
@@ -794,7 +794,7 @@
           <mxGeometry x="1666.705" y="1400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AInUMjwD0sa7yeV-oxsL-98" value="&lt;b&gt;+&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1776.71" y="1380" width="60" height="30" as="geometry" />
+          <mxGeometry x="1806.71" y="1380" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AInUMjwD0sa7yeV-oxsL-99" value="&lt;b&gt;IVA&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="940" y="1300" width="60" height="30" as="geometry" />
@@ -827,10 +827,10 @@
           <mxGeometry x="1009.8000000000001" y="1310" width="200.39" height="85" as="geometry" />
         </mxCell>
         <mxCell id="AInUMjwD0sa7yeV-oxsL-111" value="Si está caducado dateReverseChargeProcedure tendrá el mismo comportamiento.&lt;br&gt;Desde el ERP pueden ampliar el plazo de caducidad o marcar reseller como false.&lt;br&gt;Desde el portal seguiremos mostrando los precios sin iva (aunque sea revendedor y esté caducado)" style="whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
-          <mxGeometry x="952.68" y="1170" width="487.32" height="119" as="geometry" />
+          <mxGeometry x="870" y="1169" width="487.32" height="119" as="geometry" />
         </mxCell>
-        <mxCell id="AInUMjwD0sa7yeV-oxsL-112" value="Tendremos una configuración con 21% de iva y 5.2% de recargo de equivalencia.&lt;br&gt;" style="whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
-          <mxGeometry x="1510" y="1169" width="487.32" height="119" as="geometry" />
+        <mxCell id="AInUMjwD0sa7yeV-oxsL-112" value="Tendremos una configuración con 21% de iva y 5.2% de recargo de equivalencia.&lt;br&gt;Si el día de mañana cambia, solo se tiene que modificar allí." style="whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="1466.71" y="1169" width="353.29" height="119" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
