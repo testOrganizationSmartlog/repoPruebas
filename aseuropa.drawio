@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T08:53:33.513Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="l4e5tmLDSYgg4_y9ssXb" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-19T09:02:33.347Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="xgRRqLW9v1HakSMyQG3V" version="22.1.11" type="github">
   <diagram name="Página-1" id="PQF2N1dxmj4FgFT-7-pj">
     <mxGraphModel dx="2049" dy="3441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -845,8 +845,8 @@
         <mxCell id="AInUMjwD0sa7yeV-oxsL-100" value="&lt;b&gt;Recargo de equivalencia&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1546.71" y="1590" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AInUMjwD0sa7yeV-oxsL-101" value="&lt;h1&gt;Sólo en totales de carrito o proceso de compra) - SIEMPRE PVD (no permite PVP):&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="384.9999999999999" y="2010" width="470" height="120" as="geometry" />
+        <mxCell id="AInUMjwD0sa7yeV-oxsL-101" value="&lt;h1&gt;En el carrito o el proceso de compra - SIEMPRE veremos la info PVD (no permite PVP):&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="385" y="2010" width="1085" height="120" as="geometry" />
         </mxCell>
         <mxCell id="AInUMjwD0sa7yeV-oxsL-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AInUMjwD0sa7yeV-oxsL-104" target="AInUMjwD0sa7yeV-oxsL-83" edge="1">
           <mxGeometry relative="1" as="geometry">
