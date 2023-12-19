@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T16:15:31.588Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="JbtOfrGLiiW5f8q4i1Em" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-19T16:17:54.715Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ncqh8TixeGdVa52Vb3z4" version="22.1.11" type="github">
   <diagram name="Página-1" id="PQF2N1dxmj4FgFT-7-pj">
     <mxGraphModel dx="1509" dy="3115" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -545,10 +545,9 @@
         <mxCell id="AInUMjwD0sa7yeV-oxsL-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="AInUMjwD0sa7yeV-oxsL-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="484.99959595959587" y="1320.0303030303035" as="sourcePoint" />
-            <mxPoint x="540" y="1360" as="targetPoint" />
+            <mxPoint x="620" y="1321" as="targetPoint" />
             <Array as="points">
               <mxPoint x="530" y="1321" />
-              <mxPoint x="530" y="1370" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -560,8 +559,8 @@
         <mxCell id="AInUMjwD0sa7yeV-oxsL-15" value="precio &amp;lt;&lt;br&gt;&amp;nbsp;(product.oldPvp de tarifa de 0 a 5)" style="rhombus;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="310" y="1260" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="AInUMjwD0sa7yeV-oxsL-17" value="Precio Original:&lt;br&gt;&amp;nbsp;(product.&lt;b&gt;oldPvp &lt;/b&gt;de tarifa de 0 a 5)" style="whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="550" y="1340" width="120" height="60" as="geometry" />
+        <mxCell id="AInUMjwD0sa7yeV-oxsL-17" value="&amp;nbsp;(product.&lt;b&gt;oldPvp &lt;/b&gt;de tarifa de 0 a 5)" style="whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="858.93" y="1290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AInUMjwD0sa7yeV-oxsL-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="AInUMjwD0sa7yeV-oxsL-20" target="AInUMjwD0sa7yeV-oxsL-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -574,8 +573,8 @@
         <mxCell id="AInUMjwD0sa7yeV-oxsL-20" value="precio &amp;lt;&lt;br&gt;&amp;nbsp;(product.oldPvp de tarifa de 0 a 5)" style="rhombus;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="500" y="1057.5" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="AInUMjwD0sa7yeV-oxsL-21" value="Precio Original Tachado:&lt;br&gt;&amp;nbsp;(product.&lt;b&gt;oldPvp &lt;/b&gt;de tarifa de 0 a 5)&amp;nbsp;+ contributionPrice&amp;nbsp; + promoPrice&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="730" y="1057.5" width="160" height="120" as="geometry" />
+        <mxCell id="AInUMjwD0sa7yeV-oxsL-21" value="&amp;nbsp;(product.&lt;b&gt;oldPvp &lt;/b&gt;de tarifa de 0 a 5)&amp;nbsp;+ contributionPrice&amp;nbsp; + promoPrice&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="838.9300000000001" y="1057.5" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="AInUMjwD0sa7yeV-oxsL-22" value="&lt;b&gt;Precio rebajado&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="265" y="-350" width="120" height="60" as="geometry" />
@@ -628,7 +627,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AInUMjwD0sa7yeV-oxsL-47" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;Precio original TACHADO&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="AInUMjwD0sa7yeV-oxsL-47" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;Precio original TACHADO&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
           <mxGeometry x="2730" y="370" width="197.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="AInUMjwD0sa7yeV-oxsL-52" value="No existe rebaja, no hay precio original tachado" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1001,6 +1000,9 @@
         </mxCell>
         <mxCell id="ykrBuLEYsEiuOLbPD1hj-11" value="account.isoCountry == &#39;ES&#39;?" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="166.9" y="2175" width="213.94" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ykrBuLEYsEiuOLbPD1hj-12" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;Precio original TACHADO&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="820.18" y="1200.5" width="197.5" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
