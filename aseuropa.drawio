@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T07:52:48.953Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="kdhKFYJx-ljZoOwmtRV_" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-19T07:59:57.491Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ItQHC5t7Scus-m_wvLv3" version="22.1.11" type="github">
   <diagram name="Página-1" id="PQF2N1dxmj4FgFT-7-pj">
     <mxGraphModel dx="1434" dy="3110" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -671,8 +671,8 @@
         <mxCell id="AInUMjwD0sa7yeV-oxsL-58" value="&lt;b&gt;Cálculo de precios con descuento y precios originales (tachados)&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="20" y="-230" width="390" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AInUMjwD0sa7yeV-oxsL-59" value="&lt;b&gt;Precio con margen de beneficio&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" parent="1" vertex="1">
-          <mxGeometry x="550" y="-350" width="120" height="60" as="geometry" />
+        <mxCell id="AInUMjwD0sa7yeV-oxsL-59" value="&lt;b&gt;Margen de beneficio&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" parent="1" vertex="1">
+          <mxGeometry x="550" y="-350" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AInUMjwD0sa7yeV-oxsL-60" value="&lt;b&gt;Cálculo de precios con descuento y precios originales (tachados)&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="34" y="1459" width="390" height="30" as="geometry" />
@@ -894,6 +894,21 @@
         </mxCell>
         <mxCell id="qP_33R91jBlIJFts1Ylm-2" value="equipoEven?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1880" y="1645" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qP_33R91jBlIJFts1Ylm-3" value="&lt;b&gt;Margen de beneficio de &lt;u&gt;productos&lt;/u&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1179" y="-730" width="251" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qP_33R91jBlIJFts1Ylm-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="1">
+          <mxGeometry x="1810.01" y="-729.99" width="289.99" height="119.99" as="geometry" />
+        </mxCell>
+        <mxCell id="qP_33R91jBlIJFts1Ylm-5" value="&lt;b&gt;Margen de beneficio de &lt;u&gt;equipos&lt;/u&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="-720" width="251" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qP_33R91jBlIJFts1Ylm-6" value="10%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2013.36" y="-680" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qP_33R91jBlIJFts1Ylm-7" value="account.margenConfigurador" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1900" y="-680" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
