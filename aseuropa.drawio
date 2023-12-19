@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T16:14:58.220Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Pbp8JMtlAUH8wvnozh1e" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-19T16:15:31.588Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="JbtOfrGLiiW5f8q4i1Em" version="22.1.11" type="github">
   <diagram name="Página-1" id="PQF2N1dxmj4FgFT-7-pj">
     <mxGraphModel dx="1509" dy="3115" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -629,7 +629,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AInUMjwD0sa7yeV-oxsL-47" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;Precio original TACHADO&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="2600" y="390" width="197.5" height="70" as="geometry" />
+          <mxGeometry x="2730" y="370" width="197.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="AInUMjwD0sa7yeV-oxsL-52" value="No existe rebaja, no hay precio original tachado" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="469.16" y="1211" width="274.64" height="49" as="geometry" />
