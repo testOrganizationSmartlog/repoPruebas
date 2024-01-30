@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T12:12:16.485Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="yTZYeMWd6i6justtNcBm" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-30T12:13:55.400Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="G7wBb_lo1u9bLLVwYSdZ" version="23.0.2" type="github">
   <diagram name="Página-1" id="nxL-9Ufc4fE9Yyn1-6aV">
     <mxGraphModel dx="2739" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -132,6 +132,15 @@
               <mxPoint x="670" y="540" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="aA_MCflh3hHeVZnrz4-W-10" value="si se produce un error, tendremos que mostrar aquí el mensaje que devuelva (textValue)" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1040" y="768.5" width="420" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aA_MCflh3hHeVZnrz4-W-11" value="&lt;pre style=&quot;box-sizing: border-box; max-height: 400px; min-height: 6em; overflow: auto; overflow-wrap: break-word; background: rgb(51, 51, 51); border-radius: 4px; color: white; font-weight: 600; hyphens: auto; margin-top: 0px; margin-bottom: 0px; padding: 0.5em; word-break: break-word; text-align: start;&quot; class=&quot;microlight&quot;&gt;&lt;code style=&quot;box-sizing: border-box; font-family: Consolas, monaco, monospace; font-size: 1em; word-break: break-all;&quot; class=&quot;language-json&quot;&gt;{&lt;br/&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot; class=&quot;hljs-attr&quot;&gt;&quot;title&quot;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;box-sizing: inherit; color: rgb(162, 252, 162);&quot;&gt;&quot;An error has occurred in the parameters&quot;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;,&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot; class=&quot;hljs-attr&quot;&gt;&quot;status&quot;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;box-sizing: inherit; color: rgb(211, 99, 99);&quot;&gt;400&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;,&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot; class=&quot;hljs-attr&quot;&gt;&quot;textValue&quot;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;box-sizing: inherit; color: rgb(162, 252, 162);&quot;&gt;&quot;Sólo se permiten direcciones de España o Portugal&quot;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;,&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot; class=&quot;hljs-attr&quot;&gt;&quot;error&quot;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;box-sizing: inherit; color: rgb(162, 252, 162);&quot;&gt;&quot;200006&quot;&lt;/span&gt;&lt;span style=&quot;box-sizing: inherit;&quot;&gt;&lt;br/&gt;&lt;/span&gt;}&lt;/code&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="870" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aA_MCflh3hHeVZnrz4-W-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.398;entryY=-0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aA_MCflh3hHeVZnrz4-W-7" target="aA_MCflh3hHeVZnrz4-W-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
